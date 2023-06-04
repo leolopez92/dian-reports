@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportsDian", "ReportsDian\ReportsDian.csproj", "{E16AED69-987F-4D38-90DD-CAD052D6EE15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E16AED69-987F-4D38-90DD-CAD052D6EE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16AED69-987F-4D38-90DD-CAD052D6EE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16AED69-987F-4D38-90DD-CAD052D6EE15}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16AED69-987F-4D38-90DD-CAD052D6EE15}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4F575B-F0BA-4CDD-A435-424B60107AA3}
+	EndGlobalSection
+EndGlobal
